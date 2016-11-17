@@ -10,7 +10,7 @@ ul {
 image {
   height: 200px;
   width: 300px;
-  border: 2px green dashed;
+  border: 2px green; dashed;
   padding: 5px 10px 5px 10px; 
 }
 
